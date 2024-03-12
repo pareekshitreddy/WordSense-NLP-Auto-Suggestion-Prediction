@@ -12,7 +12,7 @@ This repository contains the code and research paper related to next word predic
 
 ## Getting Started
 
-1. Clone this repository: `git clone [your-repo-url]`
+1. Clone this repository: `[git clone [your-repo-url]](https://github.com/pareekshitreddy/WordSense-NLP-Auto-Suggestion-Prediction.git)`
 2. Download the Project Gutenberg datasets (Plato and Shakespeare) and preprocess the text.
 
 ## Usage
